@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
                           http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.agafua.syslog</groupId>
+    <groupId>rusv</groupId>
     <artifactId>agafua-syslog</artifactId>
     <packaging>jar</packaging>
     <version>0.4</version>
